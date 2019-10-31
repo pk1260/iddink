@@ -1,0 +1,2 @@
+# iddink
+iddink namaak website
